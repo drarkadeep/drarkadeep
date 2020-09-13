@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm [ArkaDeep](https://arkadeep.me).
 
-<!--
-**drarkadeep/drarkadeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Presently doing MBBS from MCK. I write a science blog at [arkadeep.me](https://arkadeep.me). At [3am.Page](https://3am.page) I do everything else...!
 
-Here are some ideas to get you started:
+> ### You can find me on
+- [Twitter](https://twitter.com/drarkadeep)
+- [Insta](https://instagram.com/drarkadeep)
+- [LinkedIn](https://linkedin.com/in/drarkadeep)
+- [FaceBook](https://facebook.com/drarkadeep)
+- [YouTube](https://youtube.com/drarkadeep)
+- [CodePen](https://codepen.io/drarkadeep)
+- GitHub (wait, you already found me!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I love to discuss...
+- AI in Medicine
+- Computer Science
+- AstroPhysics
+- Computational Neuroscience
+- Personal Finance
+- History of Science
+- etc...
+
+
