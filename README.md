@@ -1,4 +1,4 @@
-# Hi there, I'm [ArkaDeep](https://arkadeep.me).
+# Hi there, I'm [ArkaDeep Mukhopadhyay](https://arkadeep.me).
 
 ## Presently doing MBBS from MCK. I write a science blog at [arkadeep.me](https://arkadeep.me). At [3am.Page](https://3am.page) I do everything else...!
 
