@@ -1,4 +1,4 @@
-# Hi there 👋️, I'm [ArkaDeep Mukhopadhyay](https://3am.page).
+# Hi there ![hello](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif), I'm [ArkaDeep Mukhopadhyay](https://3am.page).
 
 ## Presently doing MBBS 🎓️ from MCK ❤️. I blog at [3am.Page 🕒️](https://3am.page)...!
 
