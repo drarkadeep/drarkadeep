@@ -10,8 +10,8 @@
 
 > ### You can find me on
 - [Twitter](https://twitter.com/drarkadeep)
-- [LinkedIn](https://linkedin.com/in/drarkadeep)
-- [FaceBook](https://facebook.com/drarkadeep)
+- [Linkedin](https://linkedin.com/in/drarkadeep)
+- [Facebook](https://facebook.com/drarkadeep)
 - [Insta](https://instagram.com/drarkadeep)
 - [YouTube](https://youtube.com/drarkadeep)
 - [Reddit](https://reddit.com/drarkadeep)
