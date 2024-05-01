@@ -11,11 +11,11 @@
 - Then it combines with Vitamin D receptor and heterodimerizes along with retinoid X receptor.
 - This upregulates genes to achieve calcium and phosphate homeostasis in blood.
 - Adequate calcium mineralizes bone with the help from osteoblasts.
-- Well mineralized bones make you strong.
+- Well mineralized bones make you strong. 💪
 
-#### In other words, I make you strong.
+#### In other words, I make you strong (🌞 = 💪)
 
-### You're welcome...
+### You're welcome... 
 
 <!--
 **drarkadeep/drarkadeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
