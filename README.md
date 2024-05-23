@@ -15,6 +15,6 @@
 
 #### In other words, I make you strong (🌞 = 💪)
 
-### You're welcome...but in the meantime, also do checkout my projects
-- [Portfolio](https://drarkadeep.github.io)
-- [Pyogenic-Python-Projects](https://github.com/drarkadeep/pyogenic-python-projects)
+## You're welcome...but in the meantime, also do checkout my projects
+- [### Portfolio](https://drarkadeep.github.io)
+- [### Pyogenic-Python-Projects](https://github.com/drarkadeep/pyogenic-python-projects)
