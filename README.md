@@ -16,7 +16,7 @@
 #### In other words, I make you strong (🌞 = 💪)
 
 ## You're welcome🙏...but in the meantime, also do checkout my projects 👀
-- ### [Purulent-Personal-Projects 🐧](https://github.com/drarkadeep/purulent-personal-projects)- 
+- ### [Purulent-Personal-Projects 🐧](https://github.com/drarkadeep/purulent-personal-projects) 
 - ### [Pyogenic-Python-Projects 🐍](https://github.com/drarkadeep/pyogenic-python-projects)
 - ### [Portfolio 💼](https://drarkadeep.github.io)
 
