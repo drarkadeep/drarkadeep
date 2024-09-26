@@ -17,6 +17,6 @@
 
 ## You're welcome🙏...but in the meantime, also do checkout my repos 👀
 - ### [Projects 🐧](https://github.com/drarkadeep/projects) 
-- ### [Pyogenic-Python-Projects 🐍](https://github.com/drarkadeep/pyogenic-python-projects)
+- ### [Pro-Projects 🐍](https://github.com/drarkadeep/pro-projects)
 - ### [Portfolio 💼](https://drarkadeep.github.io)
 
